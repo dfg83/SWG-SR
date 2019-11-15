@@ -1,0 +1,5 @@
+object_tangible_loot_collectible_collectible_parts_snowspeeder_fuel = object_tangible_loot_collectible_collectible_parts_shared_snowspeeder_fuel:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_collectible_collectible_parts_snowspeeder_fuel, "object/tangible/component/vehicle/fuel_c.iff")

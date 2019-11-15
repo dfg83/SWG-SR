@@ -1,0 +1,5 @@
+object_tangible_loot_collectible_collectible_parts_barc_armour_plating = object_tangible_loot_collectible_collectible_parts_shared_barc_armour_plating:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_collectible_collectible_parts_barc_armour_plating, "object/tangible/component/vehicle/barc_armour_plating.iff")

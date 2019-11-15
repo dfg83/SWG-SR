@@ -1,0 +1,5 @@
+object_tangible_loot_collectible_collectible_parts_snowspeeder_power_plant = object_tangible_loot_collectible_collectible_parts_shared_snowspeeder_power_plant:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_collectible_collectible_parts_snowspeeder_power_plant, "object/tangible/component/vehicle/veh_power_plant_mk2.iff")

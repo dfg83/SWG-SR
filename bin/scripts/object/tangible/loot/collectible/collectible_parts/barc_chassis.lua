@@ -1,0 +1,5 @@
+object_tangible_loot_collectible_collectible_parts_barc_chassis = object_tangible_loot_collectible_collectible_parts_shared_barc_chassis:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_collectible_collectible_parts_barc_chassis, "object/tangible/component/vehicle/barc_chassis.iff")

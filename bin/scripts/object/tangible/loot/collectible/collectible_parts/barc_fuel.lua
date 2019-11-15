@@ -1,0 +1,5 @@
+object_tangible_loot_collectible_collectible_parts_barc_fuel = object_tangible_loot_collectible_collectible_parts_shared_barc_fuel:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_collectible_collectible_parts_barc_fuel, "object/tangible/component/vehicle/fuel_a.iff")

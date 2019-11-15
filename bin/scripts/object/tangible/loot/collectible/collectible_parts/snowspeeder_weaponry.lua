@@ -1,0 +1,5 @@
+object_tangible_loot_collectible_collectible_parts_snowspeeder_weaponry = object_tangible_loot_collectible_collectible_parts_shared_snowspeeder_weaponry:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_collectible_collectible_parts_snowspeeder_weaponry, "object/tangible/component/vehicle/weapon_link.iff")
